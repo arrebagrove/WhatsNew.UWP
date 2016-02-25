@@ -126,12 +126,6 @@
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\WhatsNew.UWP\WhatsNew.UWP.csproj">
-      <Project>{c660526a-1f45-4fbb-a2e5-e13f9bb54666}</Project>
-      <Name>WhatsNew.UWP</Name>
-    </ProjectReference>
-  </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
   </PropertyGroup>

@@ -1,7 +1,8 @@
 ﻿{
   "dependencies": {
     "Edi.UWP.Helpers": "1.0.11",
-    "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0"
+    "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0",
+    "WhatsNew.UWP": "1.0.0"
   },
   "frameworks": {
     "uap10.0": {}
